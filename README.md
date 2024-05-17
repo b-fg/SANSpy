@@ -5,7 +5,7 @@
 The SANS equations are used to reduce a turbulent flow presenting an homogeneous direction into a 2-D system, effectively cutting the computational cost of a simulation by orders of magnitude.
 This is accomplished by including additional terms in the 2-D momentum equations which account for the 3-D turbulence mixing effects.
 The additional unclosed terms are modelled here using a convolutional neural network (CNN).
-Check [this preprint](https://arxiv.org/abs/2008.07528) for more info, and the journal publication:
+Check [this preprint](https://arxiv.org/abs/2008.07528) for more info, or our journal publication:
 
 > * Font, B., Weymouth, G.D., Nguyen, V.-T. & Tutty, O.R. (2021) Deep learning the spanwise-averaged Navier-Stokes equations. Journal of Computational Physics, 2021, 434(10):110199. [doi:10.1016/j.jcp.2021.110199](https://dx.doi.org/10.1016/j.jcp.2021.110199)
 
